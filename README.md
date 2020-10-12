@@ -119,7 +119,7 @@ H grover
 
 
 ## Examples
-![picture 1](img/cir1.png)  
+![picture 1](downloads/cir1.png)  
 The next lyah source code define the circuit above. Each step or column of the circuit si separated by semicolon ';' 
 ```
 LET q[4]
